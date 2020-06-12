@@ -1,0 +1,16 @@
+PODS:
+  - SciChart (3.1.0-nightly.5197)
+
+DEPENDENCIES:
+  - SciChart (= 3.1.0-nightly.5197)
+
+SPEC REPOS:
+  https://github.com/ABTSoftware/PodSpecs3.x.git:
+    - SciChart
+
+SPEC CHECKSUMS:
+  SciChart: b149c1144b77faec42e4ecb694d57af2892c2546
+
+PODFILE CHECKSUM: d9b9a67e26fdf0d6c9d3622a19f13299966b5430
+
+COCOAPODS: 1.9.1
